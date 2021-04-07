@@ -1,0 +1,14 @@
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\obj\Debug\StansGrocery.vbprojAssemblyReference.cache
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\obj\Debug\StansGroceryProject.Resources.resources
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\obj\Debug\StansGroceryProject.SplashScreenForm.resources
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\obj\Debug\StansGroceryProject.StansGroceryForm.resources
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\obj\Debug\StansGrocery.vbproj.GenerateResource.cache
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\obj\Debug\StansGrocery.vbproj.CoreCompileInputs.cache
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\bin\Debug\StansGroceryProject.exe.config
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\bin\Debug\StansGroceryProject.exe
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\bin\Debug\StansGroceryProject.pdb
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\bin\Debug\StansGroceryProject.xml
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\obj\Debug\StansGroceryProject.exe
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\obj\Debug\StansGroceryProject.xml
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\obj\Debug\StansGroceryProject.pdb
+C:\Users\aftanom\Documents\GitHubRepos\Stan's Grocery\StansGrocery\StansGroceryProject\obj\Debug\StansGroceryProject.AboutForm.resources
